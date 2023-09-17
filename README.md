@@ -1,1 +1,0 @@
-# rStrava-and-leaflet
